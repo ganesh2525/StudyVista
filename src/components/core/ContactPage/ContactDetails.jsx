@@ -9,7 +9,7 @@ const contactDetails = [
     icon: "HiChatBubbleLeftRight",
     heading: "Chat on us",
     description: "Our friendly team is here to help.",
-    details: "info@studynotion.com",
+    details: "info@studyvista.com",
   },
   {
     icon: "BiWorld",
