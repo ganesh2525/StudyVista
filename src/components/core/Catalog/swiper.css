@@ -1,0 +1,13 @@
+/* swiperCustomStyles.css */
+.swiper-button-next,
+.swiper-button-prev {
+  color: #ffffff; /* Replace with your desired color */
+}
+
+.swiper-pagination-bullet {
+  background-color: rgb(167, 167, 167); 
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #a9a9a9; 
+}
